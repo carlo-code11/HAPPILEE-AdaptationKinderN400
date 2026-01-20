@@ -23,11 +23,11 @@ function varargout = eBridge(varargin)
 %The latest version of this function, along with additional information and
 %help, are available at http://psychophysiology.cpmc.columbia.edu/eBridge.
 %
-%Copyright © 2013 by Daniel Alschuler
+%Copyright Â© 2013 by Daniel Alschuler
 %Email: dmaadm@outlook.com
 %GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
 %
-%Valuable advice, testing, and feedback were provided by Jürgen Kayser and
+%Valuable advice, testing, and feedback were provided by JÃ¼rgen Kayser and
 %Craig Tenke.
 %
 %History:
